@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageUploader</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="enter_photo_description">Enter photo description</string>
+    <string name="name">Name</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+</resources>
